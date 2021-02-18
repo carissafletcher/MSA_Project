@@ -1,0 +1,27 @@
+The following is a list of functions used in the MSA tool
+
+#Function creates a new directory based on the name of the query, the name of the query must be unique
+
+#The user defines a unique query name
+def get_query_name():
+    query_name = input('Please enter name for this query: ')
+    while not query_name:
+        query_name = input('Please enter name for this query: ')
+
+#The user identifies the current directory and its path
+    current_dir = os.getcwd()
+    path_name = current_dir + '/' + query_name
+
+#The method will create a directory named path based on the unique query name, if the name is not unique an exception will be raised
+    sentry = False
+    while sentry == False:
+        if not os.path.exists(path_name):
+            os.mkdir(path_name)
+            sentry = True
+
+        else:
+            print('Folder already exists, please choose another name')
+            query_name = input('Please enter a name for this query: ')
+            path_name = current_dir + '/' + query_name
+
+    return query_name, path_name

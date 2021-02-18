@@ -36,3 +36,20 @@ def get_query_name():
             path_name = current_dir + '/' + query_name
 
     return query_name, path_name
+#Saving and Parsing a Fasta file from NCBI using NM_ file (mRNA transcript accession number)
+Entrez.email = "Carissafletcher@gmail.com.com"  # Always tell NCBI who you are
+filename = "NM_001302690"
+if not os.path.isfile(filename):
+    # Downloading...
+    net_handle = Entrez.efetch(
+        db="nucleotide", id="NM_001302690", rettype="fasta", retmode="text"
+    )
+    out_handle = open(filename, "w")
+    out_handle.write(net_handle.read())
+    out_handle.close()
+    net_handle.close()
+    print("Saved")
+
+print("Parsing...")
+record = SeqIO.read(filename, "fasta")
+print(record)

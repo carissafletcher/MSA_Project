@@ -1,0 +1,8 @@
+#These would be the accession numbers I will try and programme for (and I think I will download them as well as a test file)
+#     I think we should also try and get a return on the RID code or QUERY ID for the blast function.
+#     Protein =Apolipoprotein E (APOE)
+#     Homo Sapiens  NM_001302690.2
+#     Pan troglodytes (taxid 9598) NM_001009007.1
+#     Bos Taurus (taxid 9913)  NM_173991.2
+#     Rattus Norvegicus ( taxid10114) variant 1 (NM_001270681.1), variant 2 (NM_00138828.3), variant 3 (NM_138828.3), variant 4 (NM_001270683.1), variant 5 (NM_0012700684.1)
+#     Mus Musculus (taxid 10088) variant 1 (NM_009696.4), variant 2 (NM_001305819), variant 3 (NM_001305843)

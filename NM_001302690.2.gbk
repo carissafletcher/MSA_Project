@@ -1,0 +1,317 @@
+LOCUS       NM_001302690            1244 bp    mRNA    linear   PRI 21-FEB-2021
+DEFINITION  Homo sapiens apolipoprotein E (APOE), transcript variant 4, mRNA.
+ACCESSION   NM_001302690
+VERSION     NM_001302690.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1244)
+  AUTHORS   Wang C, Zhang M, Garcia G Jr, Tian E, Cui Q, Chen X, Sun G, Wang J,
+            Arumugaswami V and Shi Y.
+  TITLE     ApoE-Isoform-Dependent SARS-CoV-2 Neurotropism and Cellular
+            Response
+  JOURNAL   Cell Stem Cell 28 (2), 331-342 (2021)
+   PUBMED   33450186
+  REMARK    GeneRIF: ApoE-Isoform-Dependent SARS-CoV-2 Neurotropism and
+            Cellular Response.
+REFERENCE   2  (bases 1 to 1244)
+  AUTHORS   Wang N, Liu Q, Liu H, Cong X, Yang H, Yu Y, Cao Y and Ma L.
+  TITLE     Association of Apolipoprotein E Polymorphisms and Risks of Ischemic
+            Stroke in Chinese Patients with Type 2 Diabetes Mellitus
+  JOURNAL   J Diabetes Res 2021, 8816996 (2021)
+   PUBMED   33490286
+  REMARK    GeneRIF: Association of Apolipoprotein E Polymorphisms and Risks of
+            Ischemic Stroke in Chinese Patients with Type 2 Diabetes Mellitus.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 1244)
+  AUTHORS   Serrano-Pozo A, Das S and Hyman BT.
+  TITLE     APOE and Alzheimer's disease: advances in genetics,
+            pathophysiology, and therapeutic approaches
+  JOURNAL   Lancet Neurol 20 (1), 68-80 (2021)
+   PUBMED   33340485
+  REMARK    GeneRIF: APOE and Alzheimer's disease: advances in genetics,
+            pathophysiology, and therapeutic approaches.
+            Review article
+            Erratum:[Lancet Neurol. 2021 Feb;20(2):e2. PMID: 33484655]
+REFERENCE   4  (bases 1 to 1244)
+  AUTHORS   Colovati MES, Novais IP, Zampol M, Mendes GD, Cernach MCS and
+            Zanesco A.
+  TITLE     Interaction between physical exercise and APOE gene polymorphism on
+            cognitive function in older people
+  JOURNAL   Braz J Med Biol Res 54 (2), e10098 (2020)
+   PUBMED   33331535
+  REMARK    GeneRIF: Interaction between physical exercise and APOE gene
+            polymorphism on cognitive function in older people.
+            Review article
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1244)
+  AUTHORS   Greyshock,N., Guyton,J.R., Sebastian,S. and Okorodudu,D.
+  TITLE     APOE p.Leu167del-Related Lipid Disorders - RETIRED CHAPTER, FOR
+            HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mirzaa G
+            and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   24921113
+REFERENCE   6  (bases 1 to 1244)
+  AUTHORS   Bird,T.D.
+  TITLE     Alzheimer Disease Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Mirzaa G
+            and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301340
+REFERENCE   7  (bases 1 to 1244)
+  AUTHORS   McLean,J.W., Elshourbagy,N.A., Chang,D.J., Mahley,R.W. and
+            Taylor,J.M.
+  TITLE     Human apolipoprotein E mRNA. cDNA cloning and nucleotide sequencing
+            of a new variant
+  JOURNAL   J Biol Chem 259 (10), 6498-6504 (1984)
+   PUBMED   6327682
+REFERENCE   8  (bases 1 to 1244)
+  AUTHORS   Utermann,G., Pruin,N. and Steinmetz,A.
+  TITLE     Polymorphism of apolipoprotein E. III. Effect of a single
+            polymorphic gene locus on plasma lipid levels in man
+  JOURNAL   Clin Genet 15 (1), 63-72 (1979)
+   PUBMED   759055
+REFERENCE   9  (bases 1 to 1244)
+  AUTHORS   Innerarity,T.L., Mahley,R.W., Weisgraber,K.H. and Bersot,T.P.
+  TITLE     Apoprotein (E--A-II) complex of human plasma lipoproteins. II.
+            Receptor binding activity of a high density lipoprotein subfraction
+            modulated by the apo(E--A-II) complex
+  JOURNAL   J Biol Chem 253 (17), 6289-6295 (1978)
+   PUBMED   210175
+REFERENCE   10 (bases 1 to 1244)
+  AUTHORS   Weisgraber,K.H. and Mahley,R.W.
+  TITLE     Apoprotein (E--A-II) complex of human plasma lipoproteins. I.
+            Characterization of this mixed disulfide and its identification in
+            a high density lipoprotein subfraction
+  JOURNAL   J Biol Chem 253 (17), 6281-6288 (1978)
+   PUBMED   210174
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CA771535.1, HY074888.1 and
+            BC003557.1.
+            On Aug 13, 2020 this sequence version replaced NM_001302690.1.
+            
+            Summary: The protein encoded by this gene is a major apoprotein of
+            the chylomicron. It binds to a specific liver and peripheral cell
+            receptor, and is essential for the normal catabolism of
+            triglyceride-rich lipoprotein constituents. This gene maps to
+            chromosome 19 in a cluster with the related apolipoprotein C1 and
+            C2 genes. Mutations in this gene result in familial
+            dysbetalipoproteinemia, or type III hyperlipoproteinemia (HLP III),
+            in which increased plasma cholesterol and triglycerides are the
+            consequence of impaired clearance of chylomicron and VLDL remnants.
+            [provided by RefSeq, Jun 2016].
+            
+            Transcript Variant: This variant (4) contains an alternate 5'
+            terminal exon, and it thus differs in the 5' UTR and initiates
+            translation at a downstream in-frame start codon, compared to
+            variant 1. The encoded isoform (b) is shorter at the N-terminus,
+            compared to isoform a. Variants 2, 3, 4 and 5 all encode isoform b.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: HY074888.1, DRR138522.806557.1
+                                           [ECO:0000332]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-8                 CA771535.1         42-49
+            9-97                HY074888.1         9-97
+            98-124              CA771535.1         139-165
+            125-1244            BC003557.1         23-1142
+FEATURES             Location/Qualifiers
+     source          1..1244
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19q13.32"
+     gene            1..1244
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="apolipoprotein E"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+     exon            1..124
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    79..81
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="upstream in-frame stop codon"
+     exon            125..190
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             148..1101
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="isoform b precursor is encoded by transcript
+                     variant 4; apolipoprotein E3"
+                     /codon_start=1
+                     /product="apolipoprotein E isoform b precursor"
+                     /protein_id="NP_001289619.1"
+                     /db_xref="CCDS:CCDS12647.1"
+                     /db_xref="GeneID:348"
+                     /db_xref="HGNC:HGNC:613"
+                     /db_xref="MIM:107741"
+                     /translation="MKVLWAALLVTFLAGCQAKVEQAVETEPEPELRQQTEWQSGQRW
+                     ELALGRFWDYLRWVQTLSEQVQEELLSSQVTQELRALMDETMKELKAYKSELEEQLTP
+                     VAEETRARLSKELQAAQARLGADMEDVCGRLVQYRGEVQAMLGQSTEELRVRLASHLR
+                     KLRKRLLRDADDLQKRLAVYQAGAREGAERGLSAIRERLGPLVEQGRVRAATVGSLAG
+                     QPLQERAQAWGERLRARMEEMGSRTRDRLDEVKEQVAEVRAKLEEQAQQIRLQAEAFQ
+                     ARLKSWFEPLVEDMQRQWAGLVEKVQAAVGTSAAPVPSDNH"
+     sig_peptide     148..201
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     202..1098
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /product="Apolipoprotein E. /id=PRO_0000001987"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1)"
+     misc_feature    223..225
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    253..255
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    385..912
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: 8 X 22 AA approximate tandem repeats"
+     misc_feature    424..426
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:10452964; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    586..588
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="Phosphoserine, by FAM20C.
+                     /evidence=ECO:0000244|PubMed:24275569,
+                     ECO:0000269|PubMed:26091039; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); phosphorylation site"
+     misc_feature    619..651
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: LDL and other lipoprotein receptors binding.
+                     /evidence=ECO:0000269|PubMed:20030366,
+                     ECO:0000269|PubMed:2063194"
+     misc_feature    631..642
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    775..1017
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Lipid-binding and lipoprotein association.
+                     /evidence=ECO:0000269|PubMed:2280190,
+                     ECO:0000269|PubMed:8071364"
+     misc_feature    781..783
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:2498325; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    832..855
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Heparin-binding.
+                     /evidence=ECO:0000269|PubMed:3947350"
+     misc_feature    943..1098
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Homooligomerization.
+                     /evidence=ECO:0000269|PubMed:8340399"
+     misc_feature    979..1017
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="propagated from UniProtKB/Swiss-Prot (P02649.1);
+                     Region: Specificity for association with VLDL.
+                     /evidence=ECO:0000269|PubMed:8071364"
+     misc_feature    1066..1068
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) threonine.
+                     /evidence=ECO:0000269|PubMed:19838169; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    1069..1071
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:19838169,
+                     ECO:0000269|PubMed:20511397; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     misc_feature    1087..1089
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="O-linked (GalNAc...) serine.
+                     /evidence=ECO:0000269|PubMed:23234360; propagated from
+                     UniProtKB/Swiss-Prot (P02649.1); glycosylation site"
+     exon            191..383
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="alignment:Splign:2.1.0"
+     exon            384..1244
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1219..1224
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="hexamer: AATAAA"
+     polyA_site      1244
+                     /gene="APOE"
+                     /gene_synonym="AD2; APO-E; ApoE4; LDLCQ5; LPG"
+                     /note="major polyA site"
+ORIGIN      
+        1 ggatggggag ataagagaag accaggaggg agttaaatag ggaatgggtt gggggcggct
+       61 tggtaaatgt gctgggatta ggctgttgca gataatgcaa caaggcttgg aaggctaacc
+      121 tgggactggc caatcacagg caggaagatg aaggttctgt gggctgcgtt gctggtcaca
+      181 ttcctggcag gatgccaggc caaggtggag caagcggtgg agacagagcc ggagcccgag
+      241 ctgcgccagc agaccgagtg gcagagcggc cagcgctggg aactggcact gggtcgcttt
+      301 tgggattacc tgcgctgggt gcagacactg tctgagcagg tgcaggagga gctgctcagc
+      361 tcccaggtca cccaggaact gagggcgctg atggacgaga ccatgaagga gttgaaggcc
+      421 tacaaatcgg aactggagga acaactgacc ccggtggcgg aggagacgcg ggcacggctg
+      481 tccaaggagc tgcaggcggc gcaggcccgg ctgggcgcgg acatggagga cgtgtgcggc
+      541 cgcctggtgc agtaccgcgg cgaggtgcag gccatgctcg gccagagcac cgaggagctg
+      601 cgggtgcgcc tcgcctccca cctgcgcaag ctgcgtaagc ggctcctccg cgatgccgat
+      661 gacctgcaga agcgcctggc agtgtaccag gccggggccc gcgagggcgc cgagcgcggc
+      721 ctcagcgcca tccgcgagcg cctggggccc ctggtggaac agggccgcgt gcgggccgcc
+      781 actgtgggct ccctggccgg ccagccgcta caggagcggg cccaggcctg gggcgagcgg
+      841 ctgcgcgcgc ggatggagga gatgggcagc cggacccgcg accgcctgga cgaggtgaag
+      901 gagcaggtgg cggaggtgcg cgccaagctg gaggagcagg cccagcagat acgcctgcag
+      961 gccgaggcct tccaggcccg cctcaagagc tggttcgagc ccctggtgga agacatgcag
+     1021 cgccagtggg ccgggctggt ggagaaggtg caggctgccg tgggcaccag cgccgcccct
+     1081 gtgcccagcg acaatcactg aacgccgaag cctgcagcca tgcgacccca cgccaccccg
+     1141 tgcctcctgc ctccgcgcag cctgcagcgg gagaccctgt ccccgcccca gccgtcctcc
+     1201 tggggtggac cctagtttaa taaagattca ccaagtttca cgca
+//
+

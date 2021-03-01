@@ -1,0 +1,22 @@
+#References for the Project
+#Dealing with Genbank References https://warwick.ac.uk/fac/sci/moac/people/students/peter_cock/python/genbank
+#Writing FASTA files https://www.programcreek.com/python/example/91642/Bio.SeqIO.write
+#Writing Multiple Sequence Alignment Files https://biopython.readthedocs.io/en/latest/chapter_align.html
+#Searching and fetching from Genbank http://biopython.org/DIST/docs/tutorial/Tutorial.html#sec%3Aentrez-search-fetch-genbank
+#Converting GI https://ncbiinsights.ncbi.nlm.nih.gov/2016/12/06/converting-gi-numbers-to-accession-version/
+#Bioentrez Package https://biopython.org/docs/1.75/api/Bio.Entrez.html
+#How to use github with Jupyter Notebooks https://towardsdatascience.com/how-to-use-git-github-with-jupyter-notebook-7144d6577b44
+#Bioblast Applications https://biopython.org/docs/1.75/api/Bio.Blast.Applications.html
+#Parsing Blast Tables https://biopython.org/docs/1.75/api/Bio.Blast.ParseBlastTable.html
+#Blast Records Modules
+#Iterating through Blast Records https://biopython-tutorial.readthedocs.io/en/latest/notebooks/07%20-%20Blast.html
+#Useful command lines to handle FASTA files https://www.biostars.org/p/17680/
+#Converting a FASTA file https://github.com/peterjc/biopython_workshop/blob/master/writing_sequence_files/README.rst
+#Blast Parsers in biopython https://biopython.org/docs/1.75/api/Bio.Blast.NCBIXML.html
+#Blast API parameters http://ncbi.github.io/blast-cloud/dev/api.html
+#Gene Functions https://www.uniprot.org/uniprot/P02649#entry_information
+#Related Homology https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=DetailsSearch&Term=348
+#Calculating Orthologs https://www.ncbi.nlm.nih.gov/kis/info/how-are-orthologs-calculated/
+#ClustalOmega https://www.ebi.ac.uk/Tools/services/web_clustalo/toolform.ebi
+#VariantRecorder from ensembl https://www.ensembl.org/info/docs/tools/vep/recoder/index.html
+
